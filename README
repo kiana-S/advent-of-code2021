@@ -1,0 +1,11 @@
+ADVENT OF CODE 2021
+-------------------
+
+
+This is a Haskell project containing submissions to the puzzles in Advent of Code 2021.
+
+It is based on the advent-of-code framework:
+https://github.com/pnotequalnp/advent-of-code/blob/main/src/Advent/Of/Code/Input.hs
+
+which is in turn based on the library advent-of-code-api:
+https://github.com/mstksg/advent-of-code-api

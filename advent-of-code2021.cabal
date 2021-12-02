@@ -1,0 +1,16 @@
+name:           advent-of-code2021
+version:        1.0
+synopsis:       A solution for Advent of Code 2021 in Haskell
+author:         Kiana Sheibani
+license:        MIT
+build-type:     Simple
+cabal-version:  >= 1.8
+
+executable aoc2021
+  build-depends:  base,
+                  advent-of-code,
+                  text,
+                  text-show
+  main-is:        Main.hs
+  other-modules:  Days.Day1,
+                  Days.Day2
