@@ -1,10 +1,8 @@
-{-# LANGUAGE TypeApplications #-}
 module Days.Day1 (day1part1, day1part2) where
 
 import Advent.Of.Code.Input (list)
 
 import Data.Bool (bool)
-import qualified Data.Text as T
 import Data.Text (Text)
 import TextShow
 

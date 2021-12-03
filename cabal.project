@@ -3,4 +3,4 @@ packages: ./*.cabal
 source-repository-package
     type: git
     location: https://github.com/pnotequalnp/advent-of-code.git
-    tag: 892372775408309305673c535221ac9bbc1601fb
+    tag: 87cf6c02314e0d736ccba8aad49a874dec1c86e2
